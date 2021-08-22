@@ -1,6 +1,15 @@
-# Quotes
+# QuotesApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.1.
+## Author
+
+Roy Rasugu
+
+## Description
+
+This is an angular CLI application that displays quotes, allow the user to input new quotes, upvote, downvote and delete the quotes.
+
+## Live Page
+
 
 ## Development server
 
@@ -25,3 +34,27 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Setup and instruction installations
+* Open Terminal {Ctrl+Alt+T}
+
+* git clone ```https://github.com/RoyRasugu/angularApp.git```
+
+* cd QuoteApp
+
+* code . or atom . based on the text editor you prefer.
+
+## Technologies Used
+
+* HTML5
+* CSS
+* AngularCLI
+* Bootstrap
+
+## Contact Information
+
+You can reach me on my email [royratchizi@gmail.com]
+
+## License
+* *MIT License:*
+* Copyright (c) 2021 **Roy Rasugu**
