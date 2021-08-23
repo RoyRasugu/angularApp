@@ -7,6 +7,9 @@
     color: white;
     font-weight: 600;
   }
+  .text-center{
+    color: #fff;
+  }
   hr{
     width: 50%;
     height: 2px;
