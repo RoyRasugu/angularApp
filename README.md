@@ -10,6 +10,7 @@ This is an angular CLI application that displays quotes, allow the user to input
 
 ## Live Page
 
+https://royrasugu.github.io/angularApp./
 
 ## Development server
 
