@@ -7,10 +7,10 @@ h1{
     padding-top: 2%;
   }
   h4{
-    font-family: 'Nunito, sans-serif', cursive;
+    font-family: 'Nunito, sans-serif';
   }
   span{
-    font-family: 'Nunito, sans-serif', cursive;
+    font-family: 'Nunito, sans-serif';
   }
   .overlay{
     background-color: linear-gradient(to top, #fbc2eb 0%, #a18cd1 100%);
@@ -37,7 +37,7 @@ h1{
   }
   .card{
     margin-bottom: 2%;
-    background-color: white;
+    background-color: #fff;
     box-shadow: 2px 2px 3px 2px black;
   }
   #date{
@@ -49,7 +49,7 @@ h1{
     font-weight: 700;
   }
   .card-text{
-    font-family: 'Handlee', cursive;
+    font-family: 'Handlee';
     font-weight: 570;
     font-size: 18px;
   }
