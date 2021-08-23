@@ -7,6 +7,9 @@
             <div [hidden]="name.valid || name.pristine" class="alert alert-danger p-0">
                     <p>Your name is required.</p>
             </div>
+            <div *ngIf="name.errors.minlength">
+                Name is at least 3 characters long.
+            </div>
         </div>
         <div class="form-group">
             <label for="name">Quote Title</label>
